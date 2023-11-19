@@ -31,7 +31,7 @@ source ./venv/bin/activate
 ```bash
 pip install jupyterlab numpy pandas matplotlib scikit-learn pickle mlextend
 ```
-6. Run `Jupyter Notebook`
+6. Run `Jupyter Lab`
 ```bash
 jupyter lab
 ```
